@@ -15,24 +15,26 @@ I'm a web developer with a passion for sleek, modern design — think transparen
 
 ---
 
-
-- **My Tech Stack:**  
-  ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-  ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)  
-
-- **Most Used Languages & Stats**  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uziuh&layout=compact&theme=radical)](https://github.com/uzi)
-
-  [![uzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uziuh&show_icons=true&theme=radical)](https://github.com/uzi)
+### My Tech Stack  
+<p align="left">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572b6?style=flat&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
-## 📞 Contact Me
+### Most Used Languages & Stats  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uziuh&layout=compact&theme=radical)](https://github.com/uziuh)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uziuh&show_icons=true&theme=radical)](https://github.com/uziuh)
+
+---
+
+## 📞 Contact Me  
 The best way to reach me is through Discord:  
-`uziuh`
+`uziuh`  
 
 You might even catch me live with Discord presence 👀
 
