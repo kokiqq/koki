@@ -32,7 +32,7 @@ I'm a web developer with a passion for sleek, modern design — think transparen
 
 ## 📞 Contact Me
 The best way to reach me is through Discord:  
-`uzi.dev`
+`uziuh`
 
 You might even catch me live with Discord presence 👀
 
@@ -40,7 +40,7 @@ You might even catch me live with Discord presence 👀
 
 ## 🌐 More About Me  
 Check out my site for cool projects and experiments:  
-[uzi.dev](https://uzi.dev)
+**SOON**
 
 ---
 
