@@ -24,9 +24,9 @@ I'm a web developer with a passion for sleek, modern design — think transparen
   ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38b2ac?style=flat&logo=tailwind-css&logoColor=white)  
 
 - **Most Used Languages & Stats**  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uzi&layout=compact&theme=radical)](https://github.com/uzi)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uziuh&layout=compact&theme=radical)](https://github.com/uzi)
 
-  [![uzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uzi&show_icons=true&theme=radical)](https://github.com/uzi)
+  [![uzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=uziuh&show_icons=true&theme=radical)](https://github.com/uzi)
 
 ---
 
