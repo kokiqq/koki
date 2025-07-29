@@ -55,4 +55,3 @@ I specialize in frontend development with solid design principles, combining aes
 ---
 
 **uzi from the trenches**  
-Building clean UI with dirty hands.
