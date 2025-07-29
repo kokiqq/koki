@@ -49,7 +49,7 @@ I specialize in frontend development with solid design principles, combining aes
 
 ## 📬 Get in Touch
 
-- **Discord**: `uziuh`  
+- **Discord**: `uzi.ye`  
 - **Website**: [uzi.xo.je](https://uzi.xo.je/)
 
 ---
