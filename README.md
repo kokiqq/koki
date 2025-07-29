@@ -1,16 +1,17 @@
-# uzi — web developer
+# uzi — Frontend Developer & UI Designer
 
-I build modern, performance-focused websites with an eye for clean layouts, transparent effects, and seamless interaction. My goal? Interfaces that feel smooth, intuitive, and visually sharp.
+I craft modern, performance-driven websites with a strong focus on clean layouts, transparent UI effects, and seamless interactions. My aim is simple: interfaces that *feel* as good as they look — intuitive, fast, and visually refined.
 
-I focus on frontend development with strong design principles, bringing together functionality and aesthetic. No fluff — just good UI, good code, and constant iteration.
+I specialize in frontend development with solid design principles, combining aesthetic precision with clean, maintainable code. No fluff — just thoughtful UI, responsive design, and continuous iteration.
 
 ---
 
-## 🔧 Current Focus
-- Building websites with **glassmorphism**, **motion UI**, and **transparent layering**
-- Refining my skills in **React**, **Tailwind CSS**, and **advanced JavaScript**
-- Prototyping UI systems and component libraries
-- Offering free builds — for now
+## 🔧 What I'm Working On
+
+- Building web interfaces using **glassmorphism**, **motion UI**, and **layered transparency**
+- Sharpening my skills in **React**, **Tailwind CSS**, and advanced **JavaScript**
+- Designing custom **component libraries** and **UI systems** for scalability
+- Offering **free builds** for now — open to collaborations and contributions
 
 ---
 
@@ -28,7 +29,7 @@ I focus on frontend development with strong design principles, bringing together
 
 ---
 
-## 📈 GitHub Insights
+## 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=uziuh&show_icons=true&theme=radical" />
@@ -39,18 +40,19 @@ I focus on frontend development with strong design principles, bringing together
 
 ## 🧠 Outside the Code
 
-- 🎧 Designing to music  
-- 🎮 Gaming when it’s time to reset  
-- 🧪 Experimenting with new UI patterns  
-- 🔁 Iterating fast — shipping small, refining often  
+- 🎧 Designing to deep, focused music  
+- 🎮 Gaming when it's time to reset  
+- 🧪 Prototyping bold, experimental UI concepts  
+- 🔁 Iterating fast — ship small, polish often  
 
 ---
 
-## Contact
+## 📬 Get in Touch
 
-- Discord: `uziuh`
-- Website: **Coming soon**
+- **Discord**: `uziuh`  
+- **Website**: [uzi.xo.je](https://uzi.xo.je/)
 
 ---
 
-uzi from the trenches
+**uzi from the trenches**  
+Building clean UI with dirty hands.
