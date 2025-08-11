@@ -1,4 +1,4 @@
-# uzi — Frontend Developer & UI Designer
+# koki - frontend dev
 
 I craft modern, performance-driven websites with a strong focus on clean layouts, transparent UI effects, and seamless interactions. My aim is simple: interfaces that *feel* as good as they look — intuitive, fast, and visually refined.
 
@@ -49,8 +49,8 @@ I specialize in frontend development with solid design principles, combining aes
 
 ## 📬 Get in Touch
 
-- **Discord**: `uzi.ye`  
-- **Website**: [uzi.xo.je](https://uzi.xo.je/)
+- **Discord**: `kokiqq`  
+- **Website**: shut down (new one soon)
 
 ---
 
