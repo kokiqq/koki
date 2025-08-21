@@ -32,8 +32,8 @@ I specialize in frontend development with solid design principles, combining aes
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=uziuh&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uziuh&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kokiqq&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokiqq&layout=compact&theme=radical" />
 </p>
 
 ---
