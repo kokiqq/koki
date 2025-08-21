@@ -8,7 +8,7 @@ I specialize in frontend development with solid design principles, combining aes
 
 ## 🔧 What I'm Working On
 
-- Building web interfaces using **glassmorphism**, **motion UI**, and **layered transparency**
+- Working on many projects to build my **knowledege**
 - Sharpening my skills in **React**, **Tailwind CSS**, and advanced **JavaScript**
 - Designing custom **component libraries** and **UI systems** for scalability
 - Offering **free builds** for now — open to collaborations and contributions
@@ -49,9 +49,9 @@ I specialize in frontend development with solid design principles, combining aes
 
 ## 📬 Get in Touch
 
-- **Discord**: `kokiqq`  
+- **Discord**: `kokicat`  
 - **Website**: shut down (new one soon)
 
 ---
 
-**uzi from the trenches**  
+**koki from the trenches**  
